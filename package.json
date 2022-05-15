@@ -1,6 +1,6 @@
 {
 	"name": "@tudorbng/spinning-coin-effect",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "This package will allow you to set a 3D spinning coin effect on your image. ",
 	"main": "dist/cjs/index.js",
 	"scripts": {
