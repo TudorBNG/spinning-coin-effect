@@ -21,6 +21,7 @@ export default [
 			},
 		],
 		plugins: [
+			resolve({ preferBuiltins: true, mainFields: ['browser'] }),
 			resolve(),
 			commonjs(),
 			typescript({ tsconfig: './tsconfig.json' }),
